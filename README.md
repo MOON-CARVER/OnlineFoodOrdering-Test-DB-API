@@ -5,7 +5,7 @@ The goal of this project is to streamline the interaction between customers and 
 
 ## Key Features
 ### **Customer Features:**
-- **Restaurant Search**: Customers can search for restaurants based on name, cuisine, or location.
+- **Restaurant Search**: Customers can search for restaurants based on name, catergory, or location.
 - **Menu Browsing**: View menu items, including descriptions and prices.
 - **Order Placement**: Select items and place an order, with customizable options.
 - **Order Tracking**: Real-time updates on order status and live map tracking of deliveries.
