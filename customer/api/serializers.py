@@ -18,7 +18,7 @@ class OrderSerializer(serializers.ModelSerializer):
         model = Order
         fields = '__all__'
 
-
+# customer user serializer to handle customer data
 class CustomerUserSerializer(serializers.ModelSerializer):
     place = serializers.CharField(required=False)
     customer = serializers.PrimaryKeyRelatedField(read_only=True)
